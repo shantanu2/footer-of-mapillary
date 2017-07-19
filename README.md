@@ -1,0 +1,1 @@
+# footer-of-mapillary
